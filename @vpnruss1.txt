@@ -1,14 +1,14 @@
-#profile-title: Alexander LLC "
-#subscription-userinfo: upload=3748330247320; download=98000000000000000; total=0; expire=9770597199",
-#profile-update-interval: 1"
-#profile-web-page-url: https://t.me/Alexvpns"
-#support-url: https://t.me/Alexvpns"
-#announce: Ye Cool"
+#profile-title: @vpnruss1 
+#subscription-userinfo: upload=3748330247320; download=98000000000000000; total=0; expire=9770597199
+#profile-update-interval: 1
+#profile-web-page-url: https://t.me/vpnruss1
+#support-url: https://t.me/Alexvpns
+#announce: Ye Cool
 
-vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@2.26.21.129.alexanderoff.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gateway.icloud.com&fp=chrome&pbk=-ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk&sid=c6118398#
-vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@138.124.97.153.alexanderoff.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gateway.icloud.com&fp=chrome&pbk=-ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk&sid=c6118398#
-vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@144.31.127.55.alexanderoff.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gateway.icloud.com&fp=chrome&pbk=-ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk&sid=c6118398#
-vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@158.160.121.181.alexanderoff.ru:40001?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=qq&pbk=BQjD7wRLQ3z7AbX3UVy7MQR0Zbx2FZ9g6iBV1B1jb2c&sid=c6118379#
-vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@84.252.128.29.alexanderoff.ru:40002?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=qq&pbk=U-esiG1FGjonT2tMw600SwQj5DkeP29i4oRU-t0ZLVY&sid=c6118379#
-vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@147.45.219.228.alexanderoff.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gateway.icloud.com&fp=qq&pbk=-ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk&sid=c6118398#
+vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@2.26.21.129.alexanderoff.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gateway.icloud.com&fp=chrome&pbk=-ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk&sid=c6118398#🇨🇭
+vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@138.124.97.153.alexanderoff.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gateway.icloud.com&fp=chrome&pbk=-ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk&sid=c6118398#🇸🇪
+vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@144.31.127.55.alexanderoff.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gateway.icloud.com&fp=chrome&pbk=-ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk&sid=c6118398#🇩🇪
+vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@158.160.121.181.alexanderoff.ru:40001?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=qq&pbk=BQjD7wRLQ3z7AbX3UVy7MQR0Zbx2FZ9g6iBV1B1jb2c&sid=c6118379#🇫🇷
+vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@84.252.128.29.alexanderoff.ru:40002?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=qq&pbk=U-esiG1FGjonT2tMw600SwQj5DkeP29i4oRU-t0ZLVY&sid=c6118379#🇫🇮
+vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@147.45.219.228.alexanderoff.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gateway.icloud.com&fp=qq&pbk=-ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk&sid=c6118398#🇦🇿
 
